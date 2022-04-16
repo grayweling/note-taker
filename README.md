@@ -19,8 +19,8 @@
 
   
   <p>
-  <img src='./public/assets/images/screenshot1.jpg' alt='Note Taker Screenshot' />
-  <img src='./public/assets/images/screenshot2.jpg' alt='Note Taker Screenshot' />
+  <img src='./public/assets/images/screenshot1.JPG' alt='Note Taker Screenshot' />
+  <img src='./public/assets/images/screenshot2.JPG' alt='Note Taker Screenshot' />
   </p>
 
    
