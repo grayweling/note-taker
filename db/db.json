@@ -1,6 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Chocobo",
+      "text": "Kweh",
+      "id": "2b8aac02-07fd-461b-b937-3f0eda1047d2"
     }
-]
+  ]
+}
